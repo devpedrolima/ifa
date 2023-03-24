@@ -4,6 +4,9 @@
   font-weight: 300;
 }
 
+.background {
+  background-image: url('https://live.staticflickr.com/65535/52718673702_5814a06e65_h.jpg');}
+
 .team4 h1, .team4 h2, .team4 h3, .team4 h4, .team4 h5, .team4 h6 {
   color: #3e4555;
 }

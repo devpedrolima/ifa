@@ -216,6 +216,9 @@ samp {
   font-size: 1em;
 }
 
+.background {
+  background-image: url('https://live.staticflickr.com/65535/52718673702_5814a06e65_h.jpg');}
+
 pre {
   margin-top: 0;
   margin-bottom: 1rem;

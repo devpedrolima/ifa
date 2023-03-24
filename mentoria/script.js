@@ -1,12 +1,12 @@
 particlesJS("particles-js", {
   particles: {
-    number: { value: 400, density: { enable: true, value_area: 3000 } },
+    number: { value: 500, density: { enable: true, value_area: 3000 } },
     color: { value: "#fc0000" },
     shape: {
       type: "circle",
       stroke: { width: 0, color: "#000000" },
       polygon: { nb_sides: 3 },
-      image: { src: "img/github.svg", width: 100, height: 100 },
+      image: { src: "img/github.svg", width: 200, height: 100 },
     },
     opacity: {
       value: 0.5,
@@ -27,7 +27,7 @@ particlesJS("particles-js", {
     },
     move: {
       enable: true,
-      speed: 7.8914764163227265,
+      speed: 9.8914764163227265,
       direction: "top",
       random: true,
       straight: false,

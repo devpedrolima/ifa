@@ -279,6 +279,10 @@ select {
   text-transform: none;
 }
 
+
+.background {
+  background-image: url('https://live.staticflickr.com/65535/52718673702_5814a06e65_h.jpg');}
+
 button,
 html [type="button"],
 [type="reset"],

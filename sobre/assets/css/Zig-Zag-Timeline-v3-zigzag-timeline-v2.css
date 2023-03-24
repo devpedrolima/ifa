@@ -526,6 +526,9 @@ mark,
   line-height: 1;
 }
 
+.background {
+  background-image: url('https://live.staticflickr.com/65535/52718673702_5814a06e65_h.jpg');}
+  
 .figure-caption {
   font-size: 90%;
   color: #90A4AE;

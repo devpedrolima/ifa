@@ -177,6 +177,8 @@ a {
   -webkit-text-decoration-skip: objects;
 }
 
+.background {
+  background-image: url('https://live.staticflickr.com/65535/52718673702_5814a06e65_h.jpg');}
 a:hover {
   color: #998c00;
   text-decoration: none;
